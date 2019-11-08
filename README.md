@@ -1,0 +1,1 @@
+# Kannada_Mnist
